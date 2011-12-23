@@ -1,3 +1,3 @@
-使用CoreGraphic绘制带噪点的背景图片。
+NSTableView表头菜单的例子。
 
-![snapshot.png](https://github.com/keefo/noiseBackground/raw/master/snapshot.jpg "Snapshot")
+![snapshot.png](https://github.com/keefo/TableViewHeaderMenu/raw/master/snapshot.png "Snapshot")
