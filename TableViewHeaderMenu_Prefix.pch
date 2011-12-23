@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TableViewHeaderMenu' target in the 'TableViewHeaderMenu' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
